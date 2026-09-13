@@ -1,0 +1,128 @@
+# 📊 Introduction to Tableau
+
+---
+
+## 1. Introduction 👋  
+Welcome to this introductory course on Tableau!  
+My name is Maarten and I will be your first instructor guiding you through your Tableau journey.
+
+---
+
+## 2. What is Tableau? 📈  
+Tableau is a powerful and leading data visualization tool.  
+
+It allows you to intuitively **click, drag, and drop data elements** to explore and interrogate your data.
+
+In other words:  
+👉 Tableau makes it easy to build beautiful, interactive visualizations from raw data.
+
+---
+
+## 3. Why use Tableau? 🚀  
+Tableau is designed for a wide range of business users and non-technical audiences, but it also provides access to deep computational ability for advanced data analytics.
+
+### ✨ Key Advantages:
+- 🔄 Flexible — you can work with many different data sources  
+- 🧠 Intuitive — visual cues and icons make navigation easier  
+- 🖱️ Fast prototyping — drag-and-drop makes dashboard creation quick (hours or days instead of weeks)  
+
+### 📊 End-to-end workflow in one tool:
+You can:
+- Frame the business question you want to answer  
+- Import and clean data  
+- Analyze and visualize data  
+- Make business decisions  
+- Present insights  
+
+All within Tableau!
+
+---
+
+## 4. Who uses Tableau? 👥  
+Tableau enables anyone to ask questions about their data.
+
+Common job roles include:
+- 📊 Data Analyst  
+- 💼 Business Analyst  
+- 🔍 Analytics Consultant  
+
+Basically, anyone who wants to analyze or visualize data can benefit from Tableau.
+
+---
+
+## 5. Possibilities with Tableau 📊  
+A common example is **presenting sales performance over time and location** using an interactive dashboard.
+
+Users can:
+- 🔍 Select data  
+- 🎛️ Filter results  
+- 🖱️ Hover over elements for more details  
+
+📌 Example:
+- Author: Pradeep Kumar G.  
+- Originally published on: Tableau Public  
+
+---
+
+## 6. Competitive Analysis 📉  
+Tableau is also a powerful tool for presenting **competitive analysis results**.
+
+📌 Example:
+- Author: Daniel Ling  
+- Originally published on: Tableau Public  
+
+---
+
+## 7. Tracking Outbreaks & Epidemics 🦠  
+Tableau can also be used to track disease outbreaks and epidemic progression, such as coronavirus spread.
+
+### Why it is effective:
+- 📊 Factual data improves credibility  
+- 📉 Visualization communicates insights quickly  
+- 🌍 Useful in public health reporting  
+
+📌 Example:
+- Author: Thi Ho  
+- Originally published on: Tableau Public  
+
+---
+
+## 8. Tableau Versions 💻  
+Before exercises, here are the Tableau Desktop versions:
+
+### 🆓 Tableau Desktop Public Edition
+- Free version of Tableau  
+- Most features included  
+- Connects to:
+  - Excel  
+  - CSV files  
+  - Google Sheets  
+  - Some web data sources  
+- 📦 Limited to 15 million rows  
+- 💾 Save locally or publish online  
+
+📌 Note: Since April 2024  
+
+---
+
+### 💼 Paid Tableau Desktop Version
+- Requires a license  
+- Same visualization features  
+- 🔗 Connects to all data sources  
+- 📊 Unlimited data rows  
+- 💾 Save locally or online  
+
+📌 Note: Since April 2024  
+
+---
+
+### 🧑‍💻 Course Setup
+- You will use Tableau Public Edition  
+- Optional local installation is available  
+- No installation required to complete the course  
+- Everything (VM + datasets) is available in your browser  
+
+---
+
+## 9. Let’s Practice! 🧠  
+Got it? Let’s see how well you know Tableau!
